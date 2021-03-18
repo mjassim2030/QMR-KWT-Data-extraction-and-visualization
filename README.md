@@ -33,11 +33,8 @@ Software and Programing language
 -	Github to store the source code of the project
 -	heroku Cloud Platform to upload the python project code to be accessed online
 
-
-# Code written by - Eng. Mohammed Jassim
-# QMR-KWT telemetry data extractor and visualizer v0.1 2021
 # Contributions
-- Designed by Eng. Mohammed Jassim 
+- Code written by - Eng. Mohammed Jassim
 - Supervised by Dr. Abdulmonem Alshino (University of Bahrain) 
 
 for the Code in Space Challenge 2021 by <a style="color: aqua;" href="https://orbital-space.com">Orbital Space</a> and <a style="color: aqua;" href="https://www.nssa.gov.bh/">NSSA Bahrain</a>
