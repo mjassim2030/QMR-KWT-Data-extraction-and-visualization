@@ -19,7 +19,13 @@ The platform will not only view the data but it will do the following:
 -	Allow the user to set range of acceptable values for each parameter and alert the user when the any value exceeded the range. (minimum and maximum)
 
 Screen shots of the dashbaord:
+
 ![GitHub Logo](https://github.com/Athary/QMR-KWT-Data-extraction-and-visualization/raw/master/static/img/dashboard01.jpg)
+
+https://github.com/Athary/QMR-KWT-Data-extraction-and-visualization/raw/master/static/img/dashboard02.jpg
+
+https://github.com/Athary/QMR-KWT-Data-extraction-and-visualization/raw/master/static/img/dashboard03.jpg
+
 Software and Programing language
 -	Python 3.5 for the code that will be on-board
 -	Python 3.5 using flask framework for the dashboard
