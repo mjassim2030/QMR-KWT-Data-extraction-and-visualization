@@ -11,18 +11,6 @@ Principle
 DATA_ID	ACC_X	ACC_Y	ACC_Z	CMP	TMP	BAT	RTC
 0	12	-21	23	-16	-50	40	13:20:30
 
-DATA Column	Description	Comments
-DATA_ID	An ID for the captured data row	
-ACC_X	Accelerometer x-axis reading 	-	Average of both sensors
--	Measurement Range = ±2g/±4g/±8g
-ACC_Y	Accelerometer y-axis reading	
-ACC_Z	Accelerometer z-axis reading 	
-CMP	3-axis Digital Compass reading	-	Average of both sensors
--	Measurement Range= ±16 gauss
-TMP	Temperature Reading	
-BAT	Battery Level	
-RTC	Real Time Clock Data	
-
 2-	Data Analysis Platform (Ground)
 Once the data are collected and sent to the ground the station it will be accessed using an API (Will be developed) to visualize the data on a front end dashboard that could be easily accessed by anyone.
 The platform will not only view the data but it will do the following:
@@ -30,6 +18,8 @@ The platform will not only view the data but it will do the following:
 -	Smooth interpolation of each of collected parameter so the data will be viewed on curve graph showing values fluctuation.
 -	Allow the user to set range of acceptable values for each parameter and alert the user when the any value exceeded the range. (minimum and maximum)
 
+Screen shots of the dashbaord:
+![GitHub Logo](/static/dashboard1.jpg)
 Software and Programing language
 -	Python 3.5 for the code that will be on-board
 -	Python 3.5 using flask framework for the dashboard
